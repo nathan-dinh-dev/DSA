@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/nathan-dinh-dev/DSA/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/nathan-dinh-dev/DSA/tree/master/1827-invalid-tweets) |
 | [2087-confirmation-rate](https://github.com/nathan-dinh-dev/DSA/tree/master/2087-confirmation-rate) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/nathan-dinh-dev/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
