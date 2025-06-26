@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nathan-dinh-dev/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nathan-dinh-dev/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Array
 |  |
 | ------- |
@@ -50,5 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nathan-dinh-dev/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nathan-dinh-dev/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nathan-dinh-dev/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nathan-dinh-dev/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
