@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/nathan-dinh-dev/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nathan-dinh-dev/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nathan-dinh-dev/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nathan-dinh-dev/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nathan-dinh-dev/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Sliding Window
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 <!---LeetCode Topics End-->
