@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/nathan-dinh-dev/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nathan-dinh-dev/DSA/tree/master/0342-power-of-four) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nathan-dinh-dev/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2998-count-symmetric-integers](https://github.com/nathan-dinh-dev/DSA/tree/master/2998-count-symmetric-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/nathan-dinh-dev/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nathan-dinh-dev/DSA/tree/master/0342-power-of-four) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/nathan-dinh-dev/DSA/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
