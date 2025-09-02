@@ -39,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nathan-dinh-dev/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nathan-dinh-dev/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nathan-dinh-dev/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nathan-dinh-dev/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
