@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nathan-dinh-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nathan-dinh-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nathan-dinh-dev/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/nathan-dinh-dev/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nathan-dinh-dev/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/nathan-dinh-dev/DSA/tree/master/1656-count-good-triplets) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/nathan-dinh-dev/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nathan-dinh-dev/DSA/tree/master/0342-power-of-four) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/nathan-dinh-dev/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/nathan-dinh-dev/DSA/tree/master/1500-count-largest-group) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nathan-dinh-dev/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/nathan-dinh-dev/DSA/tree/master/2998-count-symmetric-integers) |
