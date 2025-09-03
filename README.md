@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nathan-dinh-dev/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nathan-dinh-dev/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nathan-dinh-dev/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
