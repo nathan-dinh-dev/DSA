@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nathan-dinh-dev/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nathan-dinh-dev/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1656-count-good-triplets](https://github.com/nathan-dinh-dev/DSA/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nathan-dinh-dev/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/nathan-dinh-dev/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -110,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/nathan-dinh-dev/DSA/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/nathan-dinh-dev/DSA/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
