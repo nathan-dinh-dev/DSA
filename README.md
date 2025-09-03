@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/nathan-dinh-dev/DSA/tree/master/1500-count-largest-group) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nathan-dinh-dev/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/nathan-dinh-dev/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nathan-dinh-dev/DSA/tree/master/0342-power-of-four) |
+| [1500-count-largest-group](https://github.com/nathan-dinh-dev/DSA/tree/master/1500-count-largest-group) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nathan-dinh-dev/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/nathan-dinh-dev/DSA/tree/master/2998-count-symmetric-integers) |
 ## Greedy
