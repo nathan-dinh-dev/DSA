@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nathan-dinh-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nathan-dinh-dev/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/nathan-dinh-dev/DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nathan-dinh-dev/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nathan-dinh-dev/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nathan-dinh-dev/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nathan-dinh-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nathan-dinh-dev/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/nathan-dinh-dev/DSA/tree/master/1500-count-largest-group) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nathan-dinh-dev/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nathan-dinh-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nathan-dinh-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nathan-dinh-dev/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -130,4 +133,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/nathan-dinh-dev/DSA/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/nathan-dinh-dev/DSA/tree/master/2998-count-symmetric-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
