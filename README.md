@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nathan-dinh-dev/DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/nathan-dinh-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nathan-dinh-dev/DSA/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/nathan-dinh-dev/DSA/tree/master/0271-encode-and-decode-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nathan-dinh-dev/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nathan-dinh-dev/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nathan-dinh-dev/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nathan-dinh-dev/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/nathan-dinh-dev/DSA/tree/master/0125-valid-palindrome) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nathan-dinh-dev/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
