@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nathan-dinh-dev/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nathan-dinh-dev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nathan-dinh-dev/DSA/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/nathan-dinh-dev/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nathan-dinh-dev/DSA/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nathan-dinh-dev/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nathan-dinh-dev/DSA/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nathan-dinh-dev/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/nathan-dinh-dev/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nathan-dinh-dev/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nathan-dinh-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nathan-dinh-dev/DSA/tree/master/0242-valid-anagram) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nathan-dinh-dev/DSA/tree/master/0036-valid-sudoku) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Bit Manipulation
 |  |
