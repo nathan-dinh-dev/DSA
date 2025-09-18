@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/nathan-dinh-dev/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nathan-dinh-dev/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/nathan-dinh-dev/DSA/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/nathan-dinh-dev/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nathan-dinh-dev/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/nathan-dinh-dev/DSA/tree/master/1500-count-largest-group) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nathan-dinh-dev/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nathan-dinh-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nathan-dinh-dev/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/nathan-dinh-dev/DSA/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/nathan-dinh-dev/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nathan-dinh-dev/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nathan-dinh-dev/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nathan-dinh-dev/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nathan-dinh-dev/DSA/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/nathan-dinh-dev/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nathan-dinh-dev/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Sliding Window
 |  |
