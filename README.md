@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nathan-dinh-dev/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nathan-dinh-dev/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/nathan-dinh-dev/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nathan-dinh-dev/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/nathan-dinh-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nathan-dinh-dev/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nathan-dinh-dev/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nathan-dinh-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nathan-dinh-dev/DSA/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nathan-dinh-dev/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nathan-dinh-dev/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nathan-dinh-dev/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/nathan-dinh-dev/DSA/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/nathan-dinh-dev/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
