@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nathan-dinh-dev/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nathan-dinh-dev/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nathan-dinh-dev/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3606-coupon-code-validator](https://github.com/nathan-dinh-dev/DSA/tree/master/3606-coupon-code-validator) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nathan-dinh-dev/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nathan-dinh-dev/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3606-coupon-code-validator](https://github.com/nathan-dinh-dev/DSA/tree/master/3606-coupon-code-validator) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nathan-dinh-dev/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nathan-dinh-dev/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/nathan-dinh-dev/DSA/tree/master/1500-count-largest-group) |
+| [3606-coupon-code-validator](https://github.com/nathan-dinh-dev/DSA/tree/master/3606-coupon-code-validator) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nathan-dinh-dev/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nathan-dinh-dev/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3606-coupon-code-validator](https://github.com/nathan-dinh-dev/DSA/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
