@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nathan-dinh-dev/DSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/nathan-dinh-dev/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nathan-dinh-dev/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nathan-dinh-dev/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/nathan-dinh-dev/DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nathan-dinh-dev/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nathan-dinh-dev/DSA/tree/master/0088-merge-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nathan-dinh-dev/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nathan-dinh-dev/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nathan-dinh-dev/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nathan-dinh-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nathan-dinh-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nathan-dinh-dev/DSA/tree/master/0242-valid-anagram) |
