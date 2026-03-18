@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/nathan-dinh-dev/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nathan-dinh-dev/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/nathan-dinh-dev/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nathan-dinh-dev/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/nathan-dinh-dev/DSA/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nathan-dinh-dev/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nathan-dinh-dev/DSA/tree/master/0036-valid-sudoku) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/nathan-dinh-dev/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nathan-dinh-dev/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Bit Manipulation
