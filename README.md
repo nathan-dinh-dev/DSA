@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/nathan-dinh-dev/DSA/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/nathan-dinh-dev/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nathan-dinh-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/nathan-dinh-dev/DSA/tree/master/0326-power-of-three) |
