@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nathan-dinh-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/nathan-dinh-dev/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nathan-dinh-dev/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0747-min-cost-climbing-stairs](https://github.com/nathan-dinh-dev/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nathan-dinh-dev/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nathan-dinh-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nathan-dinh-dev/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nathan-dinh-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nathan-dinh-dev/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nathan-dinh-dev/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3606-coupon-code-validator](https://github.com/nathan-dinh-dev/DSA/tree/master/3606-coupon-code-validator) |
 ## Math
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nathan-dinh-dev/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nathan-dinh-dev/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nathan-dinh-dev/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nathan-dinh-dev/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nathan-dinh-dev/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
