@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nathan-dinh-dev/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nathan-dinh-dev/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nathan-dinh-dev/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/nathan-dinh-dev/DSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/nathan-dinh-dev/DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nathan-dinh-dev/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nathan-dinh-dev/DSA/tree/master/0088-merge-sorted-array) |
