@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nathan-dinh-dev/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nathan-dinh-dev/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/nathan-dinh-dev/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nathan-dinh-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nathan-dinh-dev/DSA/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/nathan-dinh-dev/DSA/tree/master/0271-encode-and-decode-strings) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nathan-dinh-dev/DSA/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/nathan-dinh-dev/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nathan-dinh-dev/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/nathan-dinh-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/nathan-dinh-dev/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nathan-dinh-dev/DSA/tree/master/0342-power-of-four) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nathan-dinh-dev/DSA/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/nathan-dinh-dev/DSA/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nathan-dinh-dev/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/nathan-dinh-dev/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nathan-dinh-dev/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nathan-dinh-dev/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
