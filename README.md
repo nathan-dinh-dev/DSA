@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nathan-dinh-dev/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nathan-dinh-dev/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3606-coupon-code-validator](https://github.com/nathan-dinh-dev/DSA/tree/master/3606-coupon-code-validator) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nathan-dinh-dev/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nathan-dinh-dev/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nathan-dinh-dev/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nathan-dinh-dev/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/nathan-dinh-dev/DSA/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/nathan-dinh-dev/DSA/tree/master/2998-count-symmetric-integers) |
+| [3546-equal-sum-grid-partition-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nathan-dinh-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nathan-dinh-dev/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/nathan-dinh-dev/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 ## Union Find
 |  |
 | ------- |
