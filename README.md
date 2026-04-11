@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nathan-dinh-dev/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nathan-dinh-dev/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nathan-dinh-dev/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nathan-dinh-dev/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3606-coupon-code-validator](https://github.com/nathan-dinh-dev/DSA/tree/master/3606-coupon-code-validator) |
 ## Array
 |  |
